@@ -1,0 +1,4 @@
+name: SrTemplate
+version: '${project.version}'
+main: sr.template.Main
+api-version: 1.16
